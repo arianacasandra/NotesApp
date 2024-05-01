@@ -1,7 +1,7 @@
-# NotesApp
+# NotesApp 
+https://arianacasandra.github.io/notesapp/
 
 NotesApp is a simple web application for creating, editing, and deleting notes. It utilizes JavaScript to dynamically manage notes within the browser.
-https://arianacasandra.github.io/arianacasandra.notes.app.github.io/
 
 ![Alt text](https://raw.githubusercontent.com/arianacasandra/Javascript/main/Notes/doc/pics.png)
 
